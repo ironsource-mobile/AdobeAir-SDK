@@ -7,7 +7,7 @@ https://developers.ironsrc.com/ironsource-mobile/air/adobe-air-plugin/
 
 
 ## Version history 
-You can find a summary of the ironSouce SDK version history [here](https://ironsrc.formtitan.com/knowledge-center#/). 
+You can find a summary of the ironSouce SDK version history [here](https://developers.ironsrc.com/ironsource-mobile/air/sdk-change-log/). 
 
 ## Contact US 
 For any question please contact us [here](https://ironsrc.formtitan.com/knowledge-center#/). 
